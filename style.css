@@ -1,0 +1,213 @@
+body {
+	margin: 0px;
+}
+header {
+	width: 100%;
+	height: 250px;
+	background-color: white;
+	display: block;
+}
+#Hlogotype{
+	width: 100%;
+	height: 80%;
+	display: flex;
+	justify-content: center;
+}
+#logo{
+	margin-top: 30px;
+	width: 100%;
+	height: 120px;
+	justify-content: center;
+	display: flex;
+	background-image: url(images/logo.png);
+	background-position: center;
+	background-size: 30%;
+	background-repeat: no-repeat;
+}
+#text1{
+	margin-top: -15px;
+	text-align: center;
+	font-size: 18px;
+}
+#text2{
+	text-align: center;
+	font-size: 18px;
+	color: purple;
+}
+.superblock{
+	width: 100%;
+	height: 30px;
+}
+#menu{
+	width: 100%;
+	height: 20%;
+	background-color: #95e8e3;
+}
+#blockmenu{
+	height: 100%;
+	width: 80%;
+	margin: auto;
+	display: flex;
+}
+.button{
+	height: 100%;
+	width: 15%;
+	margin: auto;
+	background-color: white;
+	outline: 1px solid;
+	outline-offset: -1px; 
+	text-align: center;
+	line-height: 5px;
+}
+#info{
+	
+	margin: auto; 
+	margin-top: 20px;
+	height: 870px; 
+	width: 80%;
+	background-color: #95e8e3;
+	border-radius: 75px;
+
+}
+#text3{
+	text-align: center;
+	font-size: 18px;
+	color: black;
+}
+#text4{
+	text-indent: 20px;
+	padding: 20px;
+}
+#infobutton{
+	width:22%; 
+	height:40px;
+	border: solid 1px; 
+	background-color: #00ff00;
+	border-radius: 10px;
+	float: right;
+	margin-right: 5%;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	height: 2em;
+	line-height: 2em;
+}
+#info2{
+	width: 400px;
+	height: 550px;
+	margin-right: 20px;
+	float: right;
+	border: solid 0px;
+	background-color: #95e8e3;
+	border-radius: 5px;
+}
+#flag{
+	width: 80%;
+	height: 40px;
+	background-image: url(images/1.png);
+    background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: auto;
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	line-height: 0px;
+	font-size: 20px;
+}
+#boxtext5{
+	width: 100%;
+
+	margin-top: 5px;
+	font-size: 20px;
+	font-weight: bold;
+	border-bottom: solid 1px;
+}
+#text5{
+	width: 90%;
+		margin: auto;
+}
+#boxtext{
+	width: 100%;
+
+	margin-top: 5px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.buttonramka{
+	width: 80%;
+	height: 50px;
+	margin: auto;
+	display: flex;
+}
+#superblock1{
+	margin-top: 550px;
+	height: 30px;
+}
+#ramka{
+	width: 80%;
+	height: 100%;
+	border: solid 1px;
+	border-radius: 20px;
+}
+#newsbutton{
+	width: 170px;
+	height: 30px;
+	color: blue;
+	border: solid 1px;
+	margin-top: 10px;
+	background-color: #95e8e3;
+	font-size: 23px;
+	font-weight: bold;
+	text-indent: 10px;
+}
+footer{
+	height: 300px;
+	width: 100%;
+	background-color: #95e8e3;
+}
+#boxemail{
+	width: 600px;
+	height: 55px;
+	position: absolute;
+	background-color: white;
+	border-radius: 5px;
+	margin-top: -15px;
+	margin-left: 80px;
+}
+#contentbox{
+	width: 98%;
+	height: 88%;
+	margin: auto;
+	margin-top: 4px;
+	display: flex;
+}
+#maillogo{
+	width: 10%;
+	height: 100%;
+	margin: auto;
+	background-image: url("images/12.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+#buttongo{
+	width: 20%;
+	height: 100%;
+	margin: auto;
+	background-color: #00ff00;
+	border-radius: 5px;
+	line-height: 5px;
+	text-align: center;
+	font-size: 17px;
+	font-weight: bold;
+	color: white;
+}
+#lklk>input{
+	height: 80%;
+}
+#textfooter{
+	text-indent: 100px;
+	font-weight: bold;
+	line-height: 3px;
+}
